@@ -27,4 +27,11 @@ flutter:
     - assets/models/textures/
     - assets/materials/
     - assets/materials/texture/
+    - assets/font/
+    - assets/img/
+
+fonts:
+    - family: SpaceGrotesk
+      fonts:
+        - asset: assets/font/SpaceGrotesk-VariableFont_wght.ttf
 

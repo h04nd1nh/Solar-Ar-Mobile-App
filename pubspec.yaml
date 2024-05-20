@@ -16,8 +16,11 @@ environment:
   flutter: ">=3.3.0"
 
 dependencies:
+  arkit_plugin: ^1.0.7
+  carousel_slider: ^4.2.1
   flutter:
     sdk: flutter
+  page_transition: ^2.1.0
   plugin_platform_interface: ^2.1.6
 
 dev_dependencies:
